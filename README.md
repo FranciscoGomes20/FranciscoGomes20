@@ -24,7 +24,11 @@
     <img height="80" width="80" src="https://github.com/devicons/devicon/blob/master/icons/windows8/windows8-original.svg" />
     <img height="80" width="80" src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" />
   </p>
+  
+<h2>Estatísticas 📈</h2>  
 
+  ![Francisco's GitHub stats](https://github-readme-stats.vercel.app/api?username=FranciscoGomes20&show_icons=true&count_private=true&theme=tokyonight)
+  
 <h2>Contatos 📖</h2>
   <a href="https://www.linkedin.com/in/franciscohgomes/">Linkedin</a><br>
   <a href="">henriquecgomes10@gmail.com</a>
