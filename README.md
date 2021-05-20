@@ -2,7 +2,7 @@
 
   <p>Tenho 24 anos e sou graduado em Sistemas de Informação pela Unimeta. 🎓<p>
   
-  <p>Trabalho na área de TI a mais de 7 anos, comecei como suporte e agora estou na área do desenvolvimento. 👨‍💻</p>
+  <p>Trabalho na área de TI a mais de 7 anos, comecei como a maioria no suporte e agora estou na área do desenvolvimento. 👨‍💻</p>
 
   <p>Atualmente estou focando os meus estudos para o desenvolvimento python utilizando os frameworks web Django e Flask. 🖥📚</p>
 
