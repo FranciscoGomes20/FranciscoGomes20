@@ -1,4 +1,4 @@
-<h1> Olá, meu nome Francisco Henrique.  👋 </h1>
+<h1> Olá! meu nome é Francisco Henrique.  👋 </h1>
 
   <p>Graduado em Sistemas de Informação pela Unimeta. 👨‍🎓</p>
 
