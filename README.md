@@ -26,5 +26,5 @@
   </p>
 
 <h2>Contatos</h2>
-  <a href="https://www.linkedin.com/in/franciscohgomes/">Linkedin</a>
+  <a href="https://www.linkedin.com/in/franciscohgomes/">Linkedin</a><br>
   <a href="">henriquecgomes10@gmail.com</a>
