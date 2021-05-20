@@ -28,7 +28,11 @@
 <h2>Estatísticas 📈</h2>  
 
   ![Francisco's GitHub stats](https://github-readme-stats.vercel.app/api?username=FranciscoGomes20&show_icons=true&count_private=true&theme=tokyonight)
-  
+ 
+<h2>Linguagens utilizadas 🐍</h2>
+
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FranciscoGomes20&layout=compact&theme=tokyonight)
+ 
 <h2>Contatos 📖</h2>
   <a href="https://www.linkedin.com/in/franciscohgomes/">Linkedin</a><br>
   <a href="">henriquecgomes10@gmail.com</a>
