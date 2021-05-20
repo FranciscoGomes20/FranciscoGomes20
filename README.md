@@ -4,4 +4,22 @@
 
   <p>Tenho 24 anos, trabalho e estudo na área de TI a mais de 7 anos, é não consigo me ver em outra profissão. 👨‍💻</p>
 
-  <p>Atualmente estou aprimorando os meus conhecimentos em desenvolvimento python Flask e Django. 🖥📚</p>
+  <p>Atualmente estou aprimorando os meus conhecimentos em desenvolvimento python com os frameworks web Flask e Django. 🖥📚</p>
+
+<h1>Skills</h1>
+  
+  <p>
+     <img height="80" width="80" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" />
+     <img height="80" width="80" src="https://github.com/devicons/devicon/blob/master/icons/django/django-original.svg" />
+     <img height="80" width="80" src="" />
+     <img height="80" width="80" src="" />
+     <img height="80" width="80" src="" />
+  </p>
+  
+
+<h3> Ferramentas: </h3>
+
+<p>
+  <img height="80" width="80" src="https://github.com/devicons/devicon/blob/master/icons/windows8/windows8-original.svg" />
+  <img height="80" width="80" src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain-wordmark.svg" />
+</p>
