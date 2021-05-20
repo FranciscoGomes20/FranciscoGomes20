@@ -1,8 +1,8 @@
 <h1> Olá! meu nome é Francisco Henrique.  👋 </h1>
 
-  <p>Sou graduado em Sistemas de Informação pela Unimeta. 👨‍🎓</p>
-
-  <p>Tenho 24 anos, trabalho e estudo na área de TI a mais de 7 anos, é não consigo me ver em outra profissão. 👨‍💻</p>
+  <p>Tenho 24 anos e sou graduado em Sistemas de Informação pela Unimeta. 🎓<p>
+  
+  <p>Trabalho na área de TI a mais de 7 anos, comecei como suporte e agora estou na área do desenvolvimento. 👨‍💻</p>
 
   <p>Atualmente estou focando os meus estudos para o desenvolvimento python utilizando os frameworks web Django e Flask. 🖥📚</p>
 
