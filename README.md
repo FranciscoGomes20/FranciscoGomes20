@@ -6,7 +6,7 @@
 
   <p>Atualmente estou aprimorando os meus conhecimentos em desenvolvimento python com os frameworks web Flask e Django. 🖥📚</p>
 
-<h2> Skills </h2>
+<h2>Skills</h2>
   
   <p>
      <img height="80" width="80" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" />
@@ -18,9 +18,13 @@
   </p>
   
 
-<h2> Ferramentas </h2>
+<h2>Ferramentas</h2>
 
-<p>
-  <img height="80" width="80" src="https://github.com/devicons/devicon/blob/master/icons/windows8/windows8-original.svg" />
-  <img height="80" width="80" src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" />
-</p>
+  <p>
+    <img height="80" width="80" src="https://github.com/devicons/devicon/blob/master/icons/windows8/windows8-original.svg" />
+    <img height="80" width="80" src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" />
+  </p>
+
+<h2>Contatos</h2>
+  <a href="https://www.linkedin.com/in/franciscohgomes/">Linkedin</a>
+  <a href="">henriquecgomes10@gmail.com</a>
