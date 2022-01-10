@@ -2,7 +2,7 @@
 
   <p>Tenho 24 anos e sou Analista de sistemas. 🎓<p>
   
-  <p>Trabalho na área de TI a mais de 7 anos no suporte, e atualmente estou desenvolvimento minhas habilidades como programador. 👨‍💻</p>
+  <p>Trabalho na área de TI a mais de 7 anos normalmente no suporte, e atualmente estou desenvolvimento minhas habilidades como programador. 👨‍💻</p>
 
   <p>Estou focado nós meus estudos em desenvolvimento python utilizando principalmente frameworks web Django e Flask. 🖥📚</p>
 
