@@ -1,8 +1,8 @@
 <h1> Olá! meu nome é Francisco Henrique.  👋 </h1>
 
-  <p>Tenho 24 anos e sou Analista de sistemas. 🎓<p>
+  <p>Tenho 24 anos e sou Bacharel em Sistemas de Informação. 🎓<p>
   
-  <p>Trabalho na área de TI a mais de 8 anos normalmente no suporte ao usuário, e atualmente estou desenvolvimento minhas habilidades como programador. 👨‍💻</p>
+  <p>Atualmente estou desenvolvimento minhas habilidades como programador. 👨‍💻</p>
 
   <p>Estou focado nós meus estudos em desenvolvimento python utilizando principalmente os frameworks web Django e Flask. 🖥📚</p>
 
