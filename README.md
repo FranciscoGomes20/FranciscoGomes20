@@ -1,4 +1,4 @@
-<h1> Olá! meu nome é Francisco Henrique.  👋 </h1>
+<h1> Olá! Meu nome é Francisco Henrique.  👋 </h1>
 
   <p>Tenho 24 anos e sou Bacharel em Sistemas de Informação. 🎓<p>
   
