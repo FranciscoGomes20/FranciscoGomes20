@@ -4,7 +4,7 @@
   
   <p>Atualmente estou desenvolvimento minhas habilidades como programador. 👨‍💻</p>
 
-  <p>Estou focado nós meus estudos em desenvolvimento python utilizando principalmente os frameworks web Django e Flask. 🖥📚</p>
+  <p>Estou focado nos meus estudos em desenvolvimento python utilizando principalmente os frameworks web Django e Flask. 🖥📚</p>
 
 <h2>Skills 🚀</h2>
   
