@@ -1,6 +1,6 @@
 <h1> Olá! Meu nome é Francisco Henrique.  👋 </h1>
 
-  <p>Tenho 24 anos e sou Bacharel em Sistemas de Informação. 🎓<p>
+  <p>Tenho 25 anos e sou Bacharel em Sistemas de Informação. 🎓<p>
   
   <p>Atualmente estou desenvolvimento minhas habilidades como programador. 👨‍💻</p>
 
