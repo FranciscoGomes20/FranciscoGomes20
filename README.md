@@ -12,9 +12,6 @@
      <img height="80" width="80" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" />
      <img height="80" width="80" src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg" />
      <img height="80" width="80" src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original-wordmark.svg" />
-     <img height="80" width="80" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain-wordmark.svg" />
-     <img height="80" width="80" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" />
-     <img height="80" width="80" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain-wordmark.svg" />
   </p>
   
 
