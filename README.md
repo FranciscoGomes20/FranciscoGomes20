@@ -18,6 +18,7 @@
 <h2>Ferramentas 🛠</h2>
 
   <p>
+    <img height="80" width="80" src="https://github.com/devicons/devicon/blob/master/icons/fedora/fedora-original.svg" />
     <img height="80" width="80" src="https://github.com/devicons/devicon/blob/master/icons/windows8/windows8-original.svg" />
     <img height="80" width="80" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" />
   </p>
