@@ -1,6 +1,6 @@
 <h1> Um pouco sobre mim.  👋 </h1>
 
-  <p>Tenho 27 anos e sou Bacharel em Sistemas de Informação. 🎓<p>
+  <p>Tenho 28 anos e sou Bacharel em Sistemas de Informação. 🎓<p>
   
   <p>Atualmente estou desenvolvimento minhas habilidades como programador. 👨‍💻</p>
 
